@@ -1,0 +1,17 @@
+SVG - Sclable Vector Graphics
+
+SVG can be directly embeded in HTML pages. 
+SVG graphics are scalable, and do not lose any quality if they are zoomed or resized. 
+
+- SVG stands for Scalable Vector Graphics 
+- SVG is used to define vector based graphics for the web. 
+- SVG defines grphics in XML(Extensible Markup Language) format. 
+- Each element and attribute in SVG files can be animated. 
+
+
+<svg> element: 
+
+The HTML <svg> element is a container for svg graphics. 
+
+SVG has several methods for drawing paths, rectangles, circles, polygons, text and much more. 
+
